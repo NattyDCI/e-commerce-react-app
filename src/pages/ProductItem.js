@@ -4,6 +4,9 @@ export default function Product() {
   return (
     <div>
         <h1>Single Product Page</h1>
+        <p>something</p>
+        <p>learning merne git</p>
+        
         </div>
   )
 }
